@@ -1,49 +1,49 @@
-# Acts
+# Area 100
 
-Contact us in at Get in Touch section of the app.
+Contact us at Get in Touch section of the app.
  
  * This is the End User License Agreement.
- Effective date: 2020-12-05
+ Effective date: 2021-02-23
  
-Acts App End User License Agreement.
+Area 100 App End User License Agreement.
 
-This End User License Agreement (“Agreement”) is between you and Acts and governs use of this app made available through the Google Play Store. By installing the Acts App, you agree to be bound by this Agreement and understand that there is no tolerance for objectionable content. If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the Acts App.
+This End User License Agreement (“Agreement”) is between you and Area 100 and governs use of this app made available through the Google Play Store. By installing the Area 100 App, you agree to be bound by this Agreement and understand that there is no tolerance for objectionable content. If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the Area 100 App.
 
-In order to ensure Acts provides the best experience possible for everyone, we strongly enforce a no tolerance policy for objectionable content. If you see inappropriate content, please use the "Report" feature found along each post.
+In order to ensure Area 100 provides the best experience possible for everyone, we strongly enforce a no tolerance policy for objectionable content. If you see inappropriate content, please use the "Report" feature found along each post.
 
-1. Parties - This Agreement is between you and Acts only, and not Google, Inc. (“Google”). Notwithstanding the foregoing, you acknowledge that Google and its subsidiaries are third party beneficiaries of this Agreement and Google has the right to enforce this Agreement against you. Acts, not Google, is solely responsible for the Acts App and its content.
+1. Parties - This Agreement is between you and Area 100 only, and not Google, Inc. (“Google”). Notwithstanding the foregoing, you acknowledge that Google and its subsidiaries are third party beneficiaries of this Agreement and Google has the right to enforce this Agreement against you. Area 100, not Google, is solely responsible for the Area 100 App and its content.
 
-2. Privacy - Acts may collect and use information about your usage of the Acts App, including certain types of information from and about your device. Acts may use this information, as long as it is in a form that does not personally identify you, to measure the use and performance of the Acts App.
+2. Privacy - Area 100 may collect and use information about your usage of the Area 100 App, including certain types of information from and about your device. Area 100 may use this information, as long as it is in a form that does personally identify you only in scenario where legal authorities are involved and does not personally identify you to measure the use and performance of the Area 100 App.
 
-3. Limited License - Acts grants you a limited, non-exclusive, non-transferable, revocable license to use the Acts App for your personal, non-commercial purposes. You may only use the Acts App on Google devices that you own or control and as permitted by the App Store Terms of Service.
+3. Limited License - Area 100 grants you a limited, non-exclusive, non-transferable, revocable license to use the Area100 App for your personal, non-commercial purposes. You may only use the Area 100 App on Google devices that you own or control and as permitted by the App Store Terms of Service.
 
-4. Age Restrictions - By using the Acts App, you represent and warrant that (a) you are 17 years of age or older and you agree to be bound by this Agreement; (b) if you are under 17 years of age, you have obtained verifiable consent from a parent or legal guardian; and (c) your use of the Acts App does not violate any applicable law or regulation. Your access to the Acts App may be terminated without warning if Acts believes, in its sole discretion, that you are under the age of 17 years and have not obtained verifiable consent from a parent or legal guardian. If you are a parent or legal guardian and you provide your consent to your child's use of the Acts App, you agree to be bound by this Agreement in respect to your child's use of the Acts App.
+4. Age Restrictions - By using the Area 100 App, you represent and warrant that (a) you are 17 years of age or older and you agree to be bound by this Agreement; (b) if you are under 17 years of age, you have obtained verifiable consent from a parent or legal guardian; and (c) your use of the Area 100 App does not violate any applicable law or regulation. Your access to the Area 100 App may be terminated without warning if Area 100 believes, in its sole discretion, that you are under the age of 17 years and have not obtained verifiable consent from a parent or legal guardian. If you are a parent or legal guardian and you provide your consent to your child's use of the Area 100 App, you agree to be bound by this Agreement in respect to your child's use of the Area 100 App.
 
-5. Objectionable Content Policy - Content may not be submitted to Acts that includes, is in conjunction with, or alongside any, Objectionable Content. Objectionable Content includes, but is not limited to: (i) sexually explicit materials; (ii) obscene, defamatory, libelous, slanderous, violent and/or unlawful content or profanity; (iii) content that infringes upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary right, or that is deceptive or fraudulent; (iv) content that promotes the use or sale of illegal or regulated substances, tobacco products, ammunition and/or firearms; and (v) gambling, including without limitation, any online casino, sports books, bingo or poker.
+5. Objectionable Content Policy - Content may not be submitted to Area 100 that includes, is in conjunction with, or alongside any, Objectionable Content. Objectionable Content includes, but is not limited to: (i) sexually explicit materials; (ii) obscene, defamatory, libelous, slanderous, violent and/or unlawful content or profanity; (iii) content that infringes upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary right, or that is deceptive or fraudulent; (iv) content that promotes the use or sale of illegal or regulated substances, tobacco products, ammunition and/or firearms; and (v) gambling, including without limitation, any online casino, sports books, bingo or poker.
 
-6. Warranty - Acts disclaims all warranties about the Acts App to the fullest extent permitted by law. To the extent any warranty exists under law that cannot be disclaimed, Acts, not Google, shall be solely responsible for such warranty.
+6. Warranty - Area 100 disclaims all warranties about the Area 100 App to the fullest extent permitted by law. To the extent any warranty exists under law that cannot be disclaimed, Area 100, not Google, shall be solely responsible for such warranty.
 
-7. Maintenance and Support - Acts does provide minimal maintenance or support for it but not to the extent that any maintenance or support is required by applicable law, Acts, not Google, shall be obligated to furnish any such maintenance or support.
+7. Maintenance and Support - Area 100 does provide minimal maintenance or support for it but not to the extent that any maintenance or support is required by applicable law, Area 100, not Google, shall be obligated to furnish any such maintenance or support.
 
-8. Product Claims Acts, not Google, is responsible for addressing any claims by you relating to the Acts App or use of it, including, but not limited to: (i) any product liability claim; (ii) any claim that the Acts App fails to conform to any applicable legal or regulatory requirement; and (iii) any claim arising under consumer protection or similar legislation. Nothing in this Agreement shall be deemed an admission that you may have such claims.
+8. Product Claims - Area 100, not Google, is responsible for addressing any claims by you relating to the Area 100 App or use of it, including, but not limited to: (i) any product liability claim; (ii) any claim that the Area 100 App fails to conform to any applicable legal or regulatory requirement; and (iii) any claim arising under consumer protection or similar legislation. Nothing in this Agreement shall be deemed an admission that you may have such claims.
 
-9. Third Party Intellectual Property Claims - Acts shall not be obligated to indemnify or defend you with respect to any third party claim arising out or relating to the Acts App. To the extent Acts is required to provide indemnification by applicable law, Acts, not Google, shall be solely responsible for the investigation, defense, settlement and discharge of any claim that the Acts App or your use of it infringes any third party intellectual property right.
+9. Third Party Intellectual Property Claims - Area 100 shall not be obligated to indemnify or defend you with respect to any third party claim arising out or relating to the Area 100 App. To the extent Area 100 is required to provide indemnification by applicable law, Area 100, not Google, shall be solely responsible for the investigation, defense, settlement and discharge of any claim that the Area 100 App or your use of it infringes any third party intellectual property right.
 
  
 
-These are the terms and privacy policy for Acts app.
+These are the terms and privacy policy for Area 100 app.
 
 Privacy Policy and Terms of Use
 
-Effective date: 2020-12-05
+Effective date: 2021-02-23
 
-Acts app is a Paid app. This SERVICE is provided at cost and is intended for use as is.
+Area 100 app is a Paid app. This SERVICE is provided free of cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Acts unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Area 100 unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
 
@@ -51,15 +51,15 @@ For a better experience, while using our Service, we may require you to provide 
 
 We collect the following types of information.
 
-Information you provide us directly: Profile information that you provide for your user profile (Your username, password and e-mail address when you register for an Acts account). This information allows us to help you or others be "found" on Acts.
+Information you provide us directly: Profile information that you provide for your user profile (Your username, password, phone number and e-mail address when you register for an Area 100 account). This information allows us to help you or others be "found" on Area 100.
 
-User Content that you post to the Service. Communications between you and Acts. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
+User Content that you post to the Service. Communications between you and Area 100. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
 
 The app does use third party services that may collect information used to identify you.
 
 Analytics information: We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
 
-SHARING OF YOUR INFORMATION We will not rent or sell your information to third parties outside Acts (or the group of companies of which Acts is a part) without your consent, except as noted in this Policy.
+SHARING OF YOUR INFORMATION We will not rent or sell your information to third parties outside Area 100 (or the group of companies of which Area 100 is a part) without your consent, except as noted in this Policy.
 
 Link to privacy policy of third party service providers used by the app
 
@@ -102,8 +102,8 @@ Changes to This Privacy Policy
 
 we may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-12-05
+This policy is effective as of 2021-02-23
 
 Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Get in Touch section of Acts app.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Get in Touch section of Area 100 app.
